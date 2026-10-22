@@ -1,21 +1,14 @@
-# Dépendances Node.js
 node_modules/
 
-# Variables d'environnement et secrets
 .env
 .env.*
 !.env.example
 
-# Configuration locale Vercel
 .vercel/
 
-# Fichiers de build
 dist/
 build/
 
-# Fichiers de logs
 *.log
-
-# Fichiers système
 .DS_Store
 Thumbs.db
